@@ -30,7 +30,6 @@ Jogadores adultos (classificação indicativa recomendada 18+), fãs de jogos de
 - Bullet Physics — física de colisão/destruição.
 - Bink Video — reprodução de vídeo.
 - Bancos de dados relacionais e/ou NoSQL em larga escala (algo do tipo SQL Server, PostgreSQL, ou soluções proprietárias — pura especulação, não confirmado)
-- Servidores próprios ou infraestrutura em nuvem (AWS, Azure etc. — também não confirmado publicamente)
 - Resumindo: a única coisa tecnicamente confirmável (via inferência da própria história da RAGE Engine) é que o jogo em si é construído em C++. Qualquer coisa sobre banco de dados e infraestrutura de servidor é especulação — a Rockstar mantém isso em sigilo total, diferente de empresas que divulgam "tech talks" sobre sua stack.
 
 ## Requisitos para utilização
