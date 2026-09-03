@@ -1,6 +1,8 @@
 # GTA 6 (Grand Theft Auto VI)
 
-![GTA VI - Jason e Lucia](https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_Robbery_With_Logo_landscape.0sjdgaq91u2yn.jpg)
+<p align="center">
+  <img src="https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_Robbery_With_Logo_landscape.0sjdgaq91u2yn.jpg" alt="GTA VI" width="700">
+</p>
 
 ## Descrição
 
@@ -39,7 +41,10 @@ Jogadores adultos (classificação indicativa recomendada 18+), fãs de jogos de
 
 ## Autores
 
-[![Logo Rockstar Games](imagens/rockstar-logo.jpg)](https://down-th.img.susercontent.com/file/id-11134207-7r98x-lpowa2oaauc849)
+<p align="center">
+  <img src="https://flowgames.gg/wp-content/uploads/2023/11/image-2023-11-08T103519.704.jpg" alt="ROCKSTAR" width="400">
+</p>
+
 
 - **Desenvolvedora:** Rockstar Games
 - **Publicadora:** Take-Two Interactive
