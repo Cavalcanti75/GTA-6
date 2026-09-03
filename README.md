@@ -1,6 +1,6 @@
 # GTA 6 (Grand Theft Auto VI)
 
-![Logo GTA VI](imagens/gta6-logo.jpg)
+![GTA VI - Jason e Lucia](https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_Robbery_With_Logo_landscape.0sjdgaq91u2yn.jpg)
 
 ## Descrição
 
