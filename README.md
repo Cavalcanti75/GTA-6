@@ -44,6 +44,9 @@ Jogadores adultos (classificação indicativa recomendada 18+), fãs de jogos de
   <img src="https://flowgames.gg/wp-content/uploads/2023/11/image-2023-11-08T103519.704.jpg" alt="ROCKSTAR" width="400">
 </p>
 
+Rockstar mantém quase total sigilo sobre quem exatamente trabalha em GTA 6, mas alguns nomes são conhecidos publicamente:
 
+- **Sam Houser:** Cofundador e presidente da Rockstar Games, é o líder criativo/executivo por trás da franquia desde sempre e segue no comando de GTA 6.
+- **Dan Houser:** Irmão de Sam e ex-roteirista-chefe da série (Vice City, San Andreas, GTA IV, GTA V) — saiu da Rockstar em 2020 e confirmou publicamente que não escreveu nem participou da história de GTA 6.
 - **Desenvolvedora:** Rockstar Games
 - **Publicadora:** Take-Two Interactive
